@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dice-App-React/static/css/main.39029b9c.chunk.css",
+    "main.js": "/Dice-App-React/static/js/main.2fa716f9.chunk.js",
+    "main.js.map": "/Dice-App-React/static/js/main.2fa716f9.chunk.js.map",
+    "runtime~main.js": "/Dice-App-React/static/js/runtime~main.4b20c848.js",
+    "runtime~main.js.map": "/Dice-App-React/static/js/runtime~main.4b20c848.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/Dice-App-React/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/Dice-App-React/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/Dice-App-React/index.html",
+    "precache-manifest.0b91959c9191911f314777f9d2efd98e.js": "/Dice-App-React/precache-manifest.0b91959c9191911f314777f9d2efd98e.js",
+    "service-worker.js": "/Dice-App-React/service-worker.js",
+    "static/css/main.39029b9c.chunk.css.map": "/Dice-App-React/static/css/main.39029b9c.chunk.css.map"
+  }
+}
